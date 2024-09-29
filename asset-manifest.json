@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sadarak-web-app-react/static/css/main.084e446f.css",
+    "main.js": "/sadarak-web-app-react/static/js/main.d1997a28.js",
+    "static/js/453.d41836e8.chunk.js": "/sadarak-web-app-react/static/js/453.d41836e8.chunk.js",
+    "static/media/sneakers.png": "/sadarak-web-app-react/static/media/sneakers.3d51f0d48ce5855812a2.png",
+    "static/media/toys.png": "/sadarak-web-app-react/static/media/toys.cbd8deab3f79cbc7b76a.png",
+    "static/media/electronics.png": "/sadarak-web-app-react/static/media/electronics.b6286569e995ac8dd720.png",
+    "static/media/furniture.png": "/sadarak-web-app-react/static/media/furniture.444dc9f1d092ccd493c4.png",
+    "static/media/clothing.png": "/sadarak-web-app-react/static/media/clothing.1186cb18e8d3d27c80a2.png",
+    "static/media/appliances.png": "/sadarak-web-app-react/static/media/appliances.f6a3bf59a2ee2590761b.png",
+    "static/media/instagram.png": "/sadarak-web-app-react/static/media/instagram.ac31e22207e23b7186e8.png",
+    "static/media/banner.jpg": "/sadarak-web-app-react/static/media/banner.21af40ba1860b08cddcb.jpg",
+    "static/media/auth-bg.png": "/sadarak-web-app-react/static/media/auth-bg.383af06b2799713dac97.png",
+    "static/media/google.png": "/sadarak-web-app-react/static/media/google.cadee8cdb0c0afb1a713.png",
+    "index.html": "/sadarak-web-app-react/index.html",
+    "main.084e446f.css.map": "/sadarak-web-app-react/static/css/main.084e446f.css.map",
+    "main.d1997a28.js.map": "/sadarak-web-app-react/static/js/main.d1997a28.js.map",
+    "453.d41836e8.chunk.js.map": "/sadarak-web-app-react/static/js/453.d41836e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084e446f.css",
+    "static/js/main.d1997a28.js"
+  ]
+}
